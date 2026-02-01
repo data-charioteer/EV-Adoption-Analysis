@@ -57,6 +57,7 @@ Final visualizations created using Python:
 - EV Penetration Trend  
 - YoY EV Sales Growth  
 
+(All plots are saved as images for quick review.)
 
 ---
 
@@ -67,6 +68,7 @@ Final visualizations created using Python:
 - EV penetration has steadily increased, suggesting improving market acceptance.  
 
 ---
+
 
 
 
