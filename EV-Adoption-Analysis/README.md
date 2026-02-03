@@ -24,7 +24,7 @@ The analysis uses **SQL for data cleaning and analysis** and **Python for visual
 ---
 
 ## Tools & Technologies
-- SQL (MySQL / MariaDB)  
+- SQL (MySQL)  
 - Python (Pandas, Matplotlib, Seaborn)  
 - Jupyter Notebook  
 - GitHub  
@@ -68,6 +68,7 @@ Final visualizations created using Python:
 - EV penetration has steadily increased, suggesting improving market acceptance.  
 
 ---
+
 
 
 
