@@ -111,10 +111,15 @@ This analysis helps:
 
 EV-Adoption-Analysis/
 │
+
 ├── data/
+
 ├── sql/
+
 ├── notebooks/
+
 ├── images/
+
 └── README.md
 
 
