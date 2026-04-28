@@ -110,6 +110,7 @@ This analysis helps:
 ## Project Structure
 
 EV-Adoption-Analysis/
+
 │
 
 ├── data/
