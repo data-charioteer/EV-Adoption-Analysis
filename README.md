@@ -29,7 +29,7 @@ The analysis uses:
 ## Dataset
 
 - Source: Kaggle  
-- Coverage: India (national-level aggregated data)  
+- Coverage: India (national level aggregated data)  
 - Granularity: Year, Vehicle Category, Segment  
 
 Key columns:
