@@ -17,7 +17,7 @@ Objectives include:
 - Understanding overall EV growth trends
 - Identifying dominant EV vehicle categories
 - Analyzing EV adoption momentum
-- Evaluating Year-on-Year (YoY) growth trends
+- Evaluating Year-on-Year(YoY) growth trends
 
 The analysis uses:
 
