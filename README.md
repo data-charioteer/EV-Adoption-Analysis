@@ -21,7 +21,7 @@ Objectives include:
 
 The analysis uses:
 
-- SQL for data cleaning and analysis
+- SQL for data cleaning & analysis
 - Python for visualization and insights
 
 ---
