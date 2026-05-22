@@ -1,4 +1,4 @@
-# EV Adoption & Sales Analysis (India)
+# EV Adoption and Sales Analysis (India)
 
 ## Problem Statement
 
