@@ -62,8 +62,6 @@ India's EV market is growing rapidly, yet businesses, policymakers, and investor
 - **Rising penetration** — EV penetration as a share of total vehicle sales is increasing year-over-year, reflecting improving affordability and charging infrastructure
 - **Strong long-term trajectory** — the compound growth rate across the 10-year period signals sustained market expansion
 
-> 📝 *Open your notebook and replace the above with real numbers — e.g. "2W + 3W account for ~82% of units sold" or "Sales grew from X to Y units". Real figures make the biggest impression.*
-
 ---
 
 ## 💼 Business Impact
