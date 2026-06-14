@@ -63,7 +63,7 @@ India's EV market is growing rapidly, yet businesses, policymakers, and investor
 - **Rising penetration** — EV penetration as a share of total vehicle sales is increasing year-over-year, reflecting improving affordability and charging infrastructure
 - **Strong long-term trajectory** — the compound growth rate across the 10-year period signals sustained market expansion
 
-> 📝 *Replace the above with exact numbers from your notebook output — e.g. "2W + 3W account for ~82% of units sold" or "Sales grew from X to Y units (Z% CAGR)". Real numbers make the biggest difference.*
+> 📝 *Open your notebook and replace the above with real numbers — e.g. "2W + 3W account for ~82% of units sold" or "Sales grew from X to Y units". Real figures make the biggest impression.*
 
 ---
 
@@ -86,7 +86,7 @@ EV-Adoption-Analysis/
 ├── data/                  # Raw and cleaned dataset
 ├── sql/                   # SQL scripts for data cleaning & analysis
 ├── notebooks/             # Jupyter notebooks with EDA and visualizations
-├── images/                # Exported chart images
+├── visuals/               # Exported chart images
 └── README.md
 ```
 
@@ -107,5 +107,3 @@ EV-Adoption-Analysis/
 ## 🧠 Skills Demonstrated
 
 `SQL` · `Exploratory Data Analysis` · `Data Visualization` · `Python` · `Business Insight Generation` · `GitHub Documentation`
-
-
