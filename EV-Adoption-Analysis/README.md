@@ -13,10 +13,11 @@ India's EV market is growing rapidly, yet businesses, policymakers, and investor
 
 ## 📊 Visualizations
 
-<!-- After saving your chart images, replace the paths below -->
-![Year-wise EV Sales Trend](EV-Adoption-Analysis/images/yearwise_ev_sales.png)
-![Category-wise EV Sales](EV-Adoption-Analysis/images/categorywise_ev_sales.png)
-![YoY EV Growth](EV-Adoption-Analysis/images/yoy_growth.png)
+https://github.com/data-charioteer/EV-Adoption-Analysis/blob/main/EV-Adoption-Analysis/visuals/categorywise_ev_sales.png
+https://github.com/data-charioteer/EV-Adoption-Analysis/blob/main/EV-Adoption-Analysis/visuals/categorywise_growth.png
+https://github.com/data-charioteer/EV-Adoption-Analysis/blob/main/EV-Adoption-Analysis/visuals/ev_penetration_trend.png
+https://github.com/data-charioteer/EV-Adoption-Analysis/blob/main/EV-Adoption-Analysis/visuals/yearwise_ev_sales.png
+https://github.com/data-charioteer/EV-Adoption-Analysis/blob/main/EV-Adoption-Analysis/visuals/yoy_ev_sales_growth.png
 
 ---
 
