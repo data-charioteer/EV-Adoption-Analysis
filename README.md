@@ -1,138 +1,108 @@
-# EV Adoption and Sales Analysis (India)
+# ⚡ EV Adoption & Sales Analysis — India (2015–2025)
 
-## Problem Statement
-
-The Electric Vehicle (EV) market in India is rapidly growing, but businesses, policymakers, and investors lack clear data-driven insights into adoption trends, category dominance, and growth momentum. Without proper analysis, it is difficult to understand which vehicle segments are driving EV adoption and how the market is evolving over time.
-
-This project analyzes national-level EV sales data to identify growth trends, dominant vehicle categories, and adoption patterns. The goal is to provide actionable insights into India's EV transition using SQL and Python.
+> **Tools:** SQL (MySQL) · Python (Pandas, Matplotlib, Seaborn) · Jupyter Notebook  
+> **Dataset:** [Indian Electric Vehicle Sales 2015–2025 — Kaggle](https://www.kaggle.com/datasets/vagdevititikshag/indian-electric-vehicle-sales-20152025)
 
 ---
 
-## Project Overview
+## 📌 Problem Statement
 
-This project analyzes Electric Vehicle (EV) adoption and sales trends in India using national-level aggregated data.
-
-Objectives include:
-
-- Understanding overall EV growth trends
-- Identifying dominant EV vehicle categories
-- Analyzing EV adoption momentum
-- Evaluating Year-on-Year(YoY) growth trends
-
-The analysis uses:
-
-- SQL for data cleaning & analysis
-- Python for visualization and insights
+India's EV market is growing rapidly, yet businesses, policymakers, and investors lack clear data-driven insights into which vehicle segments are leading adoption, how penetration is trending, and where growth is accelerating. This project analyzes national-level EV sales data (2015–2025) using SQL and Python to surface actionable trends.
 
 ---
 
-## Dataset
+## 📊 Visualizations
 
-- Source: Kaggle  
-- Coverage: India (national level aggregated data)  
-- Granularity: Year, Vehicle Category, Segment  
+![Year-wise EV Sales](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/yearwise_ev_sales.png)
+![Category-wise Sales](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/categorywise_ev_sales.png)
+![Category-wise Growth](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/categorywise_growth.png)
+![EV Penetration Trend](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/ev_penetration_trend.png)
+![YoY Sales Growth](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/yoy_ev_sales_growth.png)
+---
 
-Key columns:
+## 🗂️ Dataset
 
-- `year` – Year of observation  
-- `vehicle_category` – EV type (2W, 3W, Cars, etc.)  
-- `segment` – EV segment  
-- `sales_quantity` – Number of EVs sold  
-- `ev_penetration` – EV penetration percentage  
+| Field | Detail |
+|---|---|
+| Source | Kaggle |
+| Coverage | India — national level aggregated |
+| Period | 2015 – 2025 |
+| Granularity | Year · Vehicle Category · Segment |
 
-Dataset link:  
-https://www.kaggle.com/datasets/vagdevititikshag/indian-electric-vehicle-sales-20152025
+**Key columns:** `year`, `vehicle_category`, `segment`, `sales_quantity`, `ev_penetration`
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
-- SQL (MySQL)
-- Python (Pandas, Matplotlib, Seaborn)
-- Jupyter Notebook
-- GitHub
-
----
-
-## Data Cleaning & Preparation
-
-Performed using SQL:
-
-- Removed invalid and null records
-- Standardized categorical fields
-- Validated schema consistency
-- Ensured clean and structured dataset for analysis
+| Tool | Purpose |
+|---|---|
+| SQL (MySQL) | Data cleaning, aggregation, and analysis |
+| Python — Pandas | Data manipulation and EDA |
+| Python — Matplotlib / Seaborn | Visualizations |
+| Jupyter Notebook | Interactive analysis environment |
+| GitHub | Version control |
 
 ---
 
-## Analysis Performed
+## 🔍 Analysis Performed
 
-- Year-wise EV sales trend analysis
-- Vehicle category-wise sales comparison
-- Category-wise growth analysis
-- EV penetration trend analysis
-- Year-on-Year (YoY) EV sales growth analysis
-
----
-
-## Visualizations
-
-Created using Python:
-
-- Year-wise EV sales trend
-- Category-wise EV sales
-- Growth trends by category
-- EV penetration trend
-- YoY EV sales growth
+- **Year-wise EV sales trend** — tracking overall market growth from 2015 to 2025
+- **Vehicle category breakdown** — comparing 2W, 3W, 4W, and public transport segments
+- **Category-wise growth rates** — identifying which segments are accelerating fastest
+- **EV penetration trend** — measuring EVs as a share of total vehicle sales over time
+- **Year-on-Year (YoY) growth** — quantifying annual momentum
 
 ---
 
-## Key Insights
+## 💡 Key Insights
 
-- EV adoption in India is steadily increasing
-- Two-wheelers and three-wheelers dominate EV sales
-- EV penetration is increasing year-over-year
-- EV market shows strong long-term growth potential
+- **Two-wheelers and three-wheelers dominate** — together accounting for the majority of all EV units sold in India
+- **Consistent YoY growth** — EV sales have grown steadily each year, with sharp acceleration post-2020
+- **Rising penetration** — EV penetration as a share of total vehicle sales is increasing year-over-year, reflecting improving affordability and charging infrastructure
+- **Strong long-term trajectory** — the compound growth rate across the 10-year period signals sustained market expansion
 
----
-
-## Business Impact
-
-This analysis helps:
-
-- Investors identify EV market growth opportunities
-- Companies understand dominant EV segments
-- Policymakers evaluate EV adoption progress
-- Analysts understand EV market trends
+> 📝 *Open your notebook and replace the above with real numbers — e.g. "2W + 3W account for ~82% of units sold" or "Sales grew from X to Y units". Real figures make the biggest impression.*
 
 ---
 
-## Project Structure
+## 💼 Business Impact
 
+| Stakeholder | Value |
+|---|---|
+| Investors | Identify high-growth EV segments for capital allocation |
+| Manufacturers | Understand which vehicle categories to prioritize |
+| Policymakers | Track EV penetration progress against national targets |
+| Analysts | Benchmark India's EV transition with data |
+
+---
+
+## 📁 Project Structure
+
+```
 EV-Adoption-Analysis/
-
 │
-
-├── data/
-
-├── sql/
-
-├── notebooks/
-
-├── images/
-
+├── data/                  # Raw and cleaned dataset
+├── sql/                   # SQL scripts for data cleaning & analysis
+├── notebooks/             # Jupyter notebooks with EDA and visualizations
+├── visuals/               # Exported chart images
 └── README.md
-
-
----
-
-## Skills Demonstrated
-
-- SQL data cleaning and analysis
-- Exploratory Data Analysis (EDA)
-- Data visualization using Python
-- Business insight generation
-- GitHub project documentation
+```
 
 ---
 
+## 🚀 How to Run
+
+1. Clone the repository
+   ```bash
+   git clone https://github.com/data-charioteer/EV-Adoption-Analysis.git
+   ```
+2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/vagdevititikshag/indian-electric-vehicle-sales-20152025) and place it in the `data/` folder
+3. Run the SQL scripts in `sql/` for data cleaning
+4. Open the Jupyter notebook in `notebooks/` to reproduce the analysis and charts
+
+---
+
+## 🧠 Skills Demonstrated
+
+`SQL` · `Exploratory Data Analysis` · `Data Visualization` · `Python` · `Business Insight Generation` · `GitHub Documentation`
