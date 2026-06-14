@@ -13,12 +13,11 @@ India's EV market is growing rapidly, yet businesses, policymakers, and investor
 
 ## 📊 Visualizations
 
-![Year-wise EV Sales](EV-Adoption-Analysis/visuals/yearwise_ev_sales.png)
-![Category-wise Sales](EV-Adoption-Analysis/visuals/categorywise_ev_sales.png)
-![Category-wise Growth](EV-Adoption-Analysis/visuals/categorywise_growth.png)
-![EV Penetration Trend](EV-Adoption-Analysis/visuals/ev_penetration_trend.png)
-![YoY Sales Growth](EV-Adoption-Analysis/visuals/yoy_ev_sales_growth.png)
-
+![Year-wise EV Sales](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/yearwise_ev_sales.png)
+![Category-wise Sales](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/categorywise_ev_sales.png)
+![Category-wise Growth](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/categorywise_growth.png)
+![EV Penetration Trend](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/ev_penetration_trend.png)
+![YoY Sales Growth](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/yoy_ev_sales_growth.png)
 ---
 
 ## 🗂️ Dataset
