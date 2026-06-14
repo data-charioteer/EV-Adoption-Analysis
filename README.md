@@ -1,17 +1,17 @@
-# ⚡ EV Adoption & Sales Analysis — India (2015–2025)
+#  EV Adoption & Sales Analysis — India (2015–2025)
 
 > **Tools:** SQL (MySQL) · Python (Pandas, Matplotlib, Seaborn) · Jupyter Notebook  
 > **Dataset:** [Indian Electric Vehicle Sales 2015–2025 — Kaggle](https://www.kaggle.com/datasets/vagdevititikshag/indian-electric-vehicle-sales-20152025)
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 India's EV market is growing rapidly, yet businesses, policymakers, and investors lack clear data-driven insights into which vehicle segments are leading adoption, how penetration is trending, and where growth is accelerating. This project analyzes national-level EV sales data (2015–2025) using SQL and Python to surface actionable trends.
 
 ---
 
-## 📊 Visualizations
+##  Visualizations
 
 ![Year-wise EV Sales](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/yearwise_ev_sales.png)
 ![Category-wise Sales](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/categorywise_ev_sales.png)
@@ -20,7 +20,7 @@ India's EV market is growing rapidly, yet businesses, policymakers, and investor
 ![YoY Sales Growth](https://raw.githubusercontent.com/data-charioteer/EV-Adoption-Analysis/main/EV-Adoption-Analysis/visuals/yoy_ev_sales_growth.png)
 ---
 
-## 🗂️ Dataset
+##  Dataset
 
 | Field | Detail |
 |---|---|
@@ -33,7 +33,7 @@ India's EV market is growing rapidly, yet businesses, policymakers, and investor
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -45,7 +45,7 @@ India's EV market is growing rapidly, yet businesses, policymakers, and investor
 
 ---
 
-## 🔍 Analysis Performed
+##  Analysis Performed
 
 - **Year-wise EV sales trend** — tracking overall market growth from 2015 to 2025
 - **Vehicle category breakdown** — comparing 2W, 3W, 4W, and public transport segments
@@ -55,18 +55,16 @@ India's EV market is growing rapidly, yet businesses, policymakers, and investor
 
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 - **Two-wheelers and three-wheelers dominate** — together accounting for the majority of all EV units sold in India
 - **Consistent YoY growth** — EV sales have grown steadily each year, with sharp acceleration post-2020
 - **Rising penetration** — EV penetration as a share of total vehicle sales is increasing year-over-year, reflecting improving affordability and charging infrastructure
 - **Strong long-term trajectory** — the compound growth rate across the 10-year period signals sustained market expansion
 
-> 📝 *Open your notebook and replace the above with real numbers — e.g. "2W + 3W account for ~82% of units sold" or "Sales grew from X to Y units". Real figures make the biggest impression.*
-
 ---
 
-## 💼 Business Impact
+##  Business Impact
 
 | Stakeholder | Value |
 |---|---|
@@ -77,7 +75,7 @@ India's EV market is growing rapidly, yet businesses, policymakers, and investor
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 EV-Adoption-Analysis/
@@ -91,7 +89,7 @@ EV-Adoption-Analysis/
 
 ---
 
-## 🚀 How to Run
+##  How to Run
 
 1. Clone the repository
    ```bash
@@ -103,6 +101,6 @@ EV-Adoption-Analysis/
 
 ---
 
-## 🧠 Skills Demonstrated
+##  Skills Demonstrated
 
 `SQL` · `Exploratory Data Analysis` · `Data Visualization` · `Python` · `Business Insight Generation` · `GitHub Documentation`
